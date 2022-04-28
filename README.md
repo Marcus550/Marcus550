@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Marcus550
-- 👀 I’m interested in fazer bots para whatsapp
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Marcus550/Marcus550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Opa tudo bem? Espero que sim
+Meu nome e Marcus. Fico feliz por vir aqui
+Sou novo no sistema então vai demorar bastante
+Pra eu criar meu próprio bot.
